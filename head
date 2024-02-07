@@ -1,11 +1,10 @@
 <!DOCTYPE html> 
 <html> 
-<head> 
+<head><center>
 	<!-- Information about the web page -->
 	<!--This is the comment tag-->
-	<title>GeeksforGeeks</title> 
+	<title>GeeksforGeeks</title> </center>
 </head> 
-
 <body> 
 	<!--Contents of the webpage-->
 	<p>GeeksforGeeks is a online study platform</p> 
